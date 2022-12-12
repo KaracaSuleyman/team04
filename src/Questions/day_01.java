@@ -7,5 +7,5 @@ public class day_01 {
     // lutfen olsun
 
 
-
+    // ne var ne yok ;)
 }
