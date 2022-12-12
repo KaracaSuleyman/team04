@@ -16,4 +16,5 @@ public class day_01 {
     // iyi clismalar m.yzc
     // Tesekkurler galip
     // Iyi Aksamlar ben Yilmaz
+    // gece bitsin garii
 }
