@@ -7,7 +7,7 @@ public class day_01 {
     // lutfen olsun
 
     // ben mert
-
+// kaderde testerlık varmıs belki
 
     // ne var ne yok ;)
 
