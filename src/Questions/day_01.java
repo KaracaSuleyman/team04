@@ -12,4 +12,5 @@ public class day_01 {
     // ne var ne yok ;)
 
     // elif 2
+    // serkan
 }
