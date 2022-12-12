@@ -6,6 +6,8 @@ public class day_01 {
     //hayirli olsun
     // lutfen olsun
 
+    // ben mert
+
 
     // ne var ne yok ;)
 }
