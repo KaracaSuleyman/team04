@@ -13,4 +13,5 @@ public class day_01 {
 
     // elif 2
     // serkan
+    // iyi clismalar m.yzc
 }
